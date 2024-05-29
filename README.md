@@ -5,5 +5,5 @@ These are CAN definitions that can be imported into the device you are using. Th
 
 Each directory is organized by device, with instructions on how to install the definitions for each device.
 
-For questions, suggestions, or requests, please contact Bily Smith, Technical Director at RMS
+For questions, suggestions, or requests, please contact Billy Smith, Technical Director at RMS
 billy@racerms.com
